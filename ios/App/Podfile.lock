@@ -1,0 +1,51 @@
+PODS:
+  - Capacitor (5.5.1):
+    - CapacitorCordova
+  - CapacitorCamera (5.0.7):
+    - Capacitor
+  - CapacitorCordova (5.5.1)
+  - CapacitorSplashScreen (5.0.6):
+    - Capacitor
+  - NativescriptCapacitor (5.0.2):
+    - Capacitor
+    - NativeScriptSDK (~> 8.4.2)
+    - NativeScriptUI (~> 0.1.2)
+  - NativeScriptSDK (8.4.2)
+  - NativeScriptUI (0.1.2)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCamera (from `../../node_modules/@capacitor/camera`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorSplashScreen (from `../../node_modules/@capacitor/splash-screen`)"
+  - "NativescriptCapacitor (from `../../node_modules/@nativescript/capacitor`)"
+
+SPEC REPOS:
+  trunk:
+    - NativeScriptSDK
+    - NativeScriptUI
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCamera:
+    :path: "../../node_modules/@capacitor/camera"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorSplashScreen:
+    :path: "../../node_modules/@capacitor/splash-screen"
+  NativescriptCapacitor:
+    :path: "../../node_modules/@nativescript/capacitor"
+
+SPEC CHECKSUMS:
+  Capacitor: 9da0a2415e3b6098511f8b5ffdb578d91ee79f8f
+  CapacitorCamera: 084b0b228bba7d00587910337b1c89e93b1d32ab
+  CapacitorCordova: e128cc7688c070ca0bfa439898a5f609da8dbcfe
+  CapacitorSplashScreen: 5fa2ab5e46cf5cc530cf16a51c80c7a986579ccd
+  NativescriptCapacitor: 9d402d59e06ac9831791fe966d0e0d7f412c8c71
+  NativeScriptSDK: 52c027949a94137d9215c2a955f8e1102cbb34a6
+  NativeScriptUI: b7352a0cf41db1b57f97f4dfa63fb592e1778040
+
+PODFILE CHECKSUM: a47e2269ad47c0d14a8df1b4a9fc648b9d631743
+
+COCOAPODS: 1.14.3

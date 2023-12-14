@@ -1,0 +1,11 @@
+{
+  "appId": "ns.test.app",
+  "appName": "ns-test",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
